@@ -1,0 +1,6 @@
+
+best = 0, worst = 0.976377
+
+median = 0, mean = 0.138596
+
+std = 0.31239

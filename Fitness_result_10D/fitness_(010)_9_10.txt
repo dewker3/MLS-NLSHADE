@@ -1,0 +1,6 @@
+
+best = 0, worst = 300
+
+median = 100, mean = 128.531
+
+std = 84.3322
